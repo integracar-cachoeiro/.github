@@ -25,9 +25,10 @@ Coordenado pelo **IFES Campus Cachoeiro de Itapemirim**, o IntegraCAR reúne par
 
 | Repositório | Descrição | Status |
 |---|---|---|
-| [integracar-dashboard](https://github.com/integracar-cachoeiro/integracar-dashboard) | Dashboard Streamlit para acompanhamento e análise dos processos CAR/Simlam | Ativo |
+| [integracar-dashboard](https://github.com/integracar-cachoeiro/integracar-dashboard) | Painel Streamlit para acompanhamento e análise dos processos CAR/Simlam | Ativo |
+| [integracar-gestao](https://github.com/integracar-cachoeiro/integracar-gestao) | Sistema web de gestão interna de processos e equipes | Planejado |
+| [integracar-web](https://github.com/integracar-cachoeiro/integracar-web) | Site institucional do projeto | Planejado |
 | [integracar-docs](https://github.com/integracar-cachoeiro/integracar-docs) | Documentação técnica, manuais e arquitetura do projeto | Em construção |
-| [integracar-web](https://github.com/integracar-cachoeiro/integracar-web) | Sistema de gestão e site institucional | Planejado |
 
 ---
 
